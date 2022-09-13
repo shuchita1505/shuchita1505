@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://github.com/shuchita1505/shuchita1505/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/shuchita1505/shuchita1505/blob/main/gith.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
-<img src="https://github.com/shuchita1505/shuchita1505/blob/main/coderman.gif" alt="shuchita typer" />
+<img src="https://github.com/shuchita1505/shuchita1505/blob/main/coderman.gif" alt="shuchita typer width="690" height="280" />
 </div>
 <br/>
 
@@ -32,3 +32,9 @@
 - 😄 Pronouns: **She/Her**
     
     * *If you're still reading, Let's Connect !!*
+    
+<br/>
+<div align="center">
+<img src="https://github.com/shuchita1505/shuchita1505/blob/main/connect.gif" alt="shuchita typer width="211" height="211" />
+</div>
+<br/>
